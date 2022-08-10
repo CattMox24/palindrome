@@ -5,6 +5,6 @@ require "mcox_palindrome"
 
 require "minitest/autorun"
 
-requiire "minitest/reporters"
+require "minitest/reporters"
 
 Minitest::Reporters.use!
